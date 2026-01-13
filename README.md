@@ -15,4 +15,4 @@ This repository contains commonly asked **pattern printing programs** implemente
 - C++
 
 # Note
-- More codes will get added to this repo
+- More codes will get added to this repo.
