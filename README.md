@@ -4,6 +4,8 @@ This repository contains commonly asked **pattern printing programs** implemente
 
 ##  Patterns Covered
 - Right Triangle Star Pattern
+- Hollow Square
+- Pascal Triangle
 
 ## Concepts Used
 - Nested loops
